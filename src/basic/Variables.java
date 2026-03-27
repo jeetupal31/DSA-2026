@@ -1,4 +1,4 @@
-package Basic;
+package basic;
 
 public class Variables {
     static void main(String[] args) {
