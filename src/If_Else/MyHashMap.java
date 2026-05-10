@@ -1,9 +1,6 @@
 package If_Else;
-
-public class DesignHashmap {
-    import java.util.Arrays;
-
-    class MyHashMap {
+import java.util.Arrays;
+public class MyHashMap {
 
         int[] map;
 
@@ -24,4 +21,4 @@ public class DesignHashmap {
             map[key] = -1;
         }
     }
-}
+
